@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\bin\Debug\textBoxDemo.exe.config
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\bin\Debug\textBoxDemo.exe
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\bin\Debug\textBoxDemo.pdb
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.textBoxDemoForm.resources
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.exe
+C:\Users\Kabrina\Documents\C#\textBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\bin\Debug\textBoxDemo.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\bin\Debug\textBoxDemo.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\bin\Debug\textBoxDemo.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.textBoxDemoForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyTextBoxDemo\textBoxDemo\obj\Debug\textBoxDemo.pdb
